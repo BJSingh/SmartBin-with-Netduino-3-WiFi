@@ -1,5 +1,5 @@
 # SmartBin-with-Netduino-3-WiFi
-A Prototype Project using <a href="http://developer.wildernesslabs.co/Netduino/About/">Netduino 3 WiFi IoT Development Board</a> which shows instruction how to developed hardware project using language C# and .NET MicroFramework. To demonstrate, I made this IoT project SmartBin which monitors bin level and sends alert via SMS cloud Gateway <a href="https://www.clicksend.com/in/">@ClickSend</a> cloud API.
+A Prototype Project using <a href="http://developer.wildernesslabs.co/Netduino/About/">Netduino 3 WiFi IoT Development Board</a> which shows instruction how to developed hardware project using language C# and .NET microFramework. To demonstrate, I made this IoT project SmartBin which monitors bin level and sends alert via SMS cloud Gateway <a href="https://www.clicksend.com/in/">@ClickSend</a> cloud API.
 
 
 How to Build Project Description is available on Link:
