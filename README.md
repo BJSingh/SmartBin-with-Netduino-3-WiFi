@@ -1,8 +1,8 @@
 # SmartBin-with-Netduino-3-WiFi
-A Prototype Project using Netduino 3 WiFi IoT Development Board which shows instruction how to developed hardware project using language C# and .NET MicroFramework.
+A Prototype Project using Netduino 3 WiFi IoT Development Board which shows instruction how to developed hardware project using language C# and .NET MicroFramework. To demonstrate, I made this IoT project SmartBin which monitors bin level and sends alert via SMS cloud Gateway @clicksend cloud API.
 
 
-Project Description is available on Link:
+How to Build Project Description is available on Link:
 https://www.hackster.io/skyline/smartbin-using-netduino-3-wifi-b29fd3
 
 
